@@ -4,6 +4,6 @@ title: "Interests"
 excerpt: "Interests"
 author_profile: true
 redirect_from: 
-  - /interests/
+  - /my_interests/
 ---
 Coming soon

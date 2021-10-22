@@ -11,7 +11,7 @@ author_profile: true
 
 URL             |  Title
 :-------------------------:|:-------------------------:
-[<img src="/images/foo-bar-identity-th.jpg" width="148">](https://arxiv.org/pdf/2110.07981.pdf)  | Reappraising Domain Generalization in Neural Networks<br/> arxiv
+[<img src="/images/foo-bar-identity-th.jpg" width="148">](https://arxiv.org/pdf/2110.07981.pdf)  | Reappraising Domain Generalization in Neural Networks<br/> <b>arxiv</b>
 [<img src="/images/foo-bar-identity-th.jpg" width="148">](https://arxiv.org/pdf/2110.07981.pdf)  | Reappraising Domain Generalization in Neural Networks
 [<img src="/images/foo-bar-identity-th.jpg" width="148">](https://arxiv.org/pdf/2110.07981.pdf)  | Reappraising Domain Generalization in Neural Networks
 [<img src="/images/foo-bar-identity-th.jpg" width="148">](https://arxiv.org/pdf/2110.07981.pdf)  | Reappraising Domain Generalization in Neural Networks

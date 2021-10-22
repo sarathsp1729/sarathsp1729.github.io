@@ -5,11 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-|![An image](/images/foo-bar-identity-th.jpg) | Reappraising Domain Generalization in Neural Networks  |
-|---|---|
+<!-- |![An image](/images/foo-bar-identity-th.jpg) | Reappraising Domain Generalization in Neural Networks  | -->
+<!-- |---|---| -->
 
 
-
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](/images/foo-bar-identity-th.jpg)  | Reappraising Domain Generalization in Neural Networks
 
 
 <!-- {% if author.googlescholar %}

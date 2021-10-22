@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-|![An image](images/foo-bar-identity-th.jpg | width=100) | Reappraising Domain Generalization in Neural Networks<br/> [arXiv 2021](https://arxiv.org/pdf/2110.07981.pdf)  |
+|![An image](images/foo-bar-identity-th.jpg | width=100) | Reappraising lost Domain Generalization in Neural Networks<br/> [arXiv 2021](https://arxiv.org/pdf/2110.07981.pdf)  |
 |-|-|
 
 

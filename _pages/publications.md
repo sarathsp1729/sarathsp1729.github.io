@@ -11,9 +11,9 @@ author_profile: true
 
 URL             |  Title
 :-------------------------:|:-------------------------:
-[<img src="/images/foo-bar-identity-th.jpg" width="148">](https://arxiv.org/pdf/2110.07981.pdf)  | Reappraising Domain Generalization in Neural Networks<br/> <b>arxiv</b>
-[<img src="/images/foo-bar-identity-th.jpg" width="148">](https://arxiv.org/pdf/2110.07981.pdf)  | Reappraising Domain Generalization in Neural Networks
-[<img src="/images/foo-bar-identity-th.jpg" width="148">](https://arxiv.org/pdf/2110.07981.pdf)  | Reappraising Domain Generalization in Neural Networks
+[<img src="/images/foo-bar-identity-th.jpg" width="148">](https://arxiv.org/pdf/2006.05103.pdf)  | <b> The Curious Case of Convex Neural Networks</b> <br/> Sarath Sivaprasad, Ankur Singh, Naresh Manwani & Vineet Gandhi
+[<img src="/images/foo-bar-identity-th.jpg" width="148">](https://arxiv.org/pdf/2110.07981.pdf)  | <b>Reappraising Domain Generalization in Neural Networks</b> <br/>Sarath Sivaprasad, Akshay Goindani, Vaibhav Garg & Vineet Gandhi
+[<img src="/images/foo-bar-identity-th.jpg" width="148">](https://dl.acm.org/doi/pdf/10.1145/3206025.3206076)  | <b>Multimodal continuous prediction of emotions in movies using long short-term memory networks</b><br/> Sarath Sivaprasad, Tanmayee Joshi, Rishabh Agrawal & Niranjan Pedanekar 
 [<img src="/images/foo-bar-identity-th.jpg" width="148">](https://arxiv.org/pdf/2110.07981.pdf)  | Reappraising Domain Generalization in Neural Networks
 [<img src="/images/foo-bar-identity-th.jpg" width="148">](https://arxiv.org/pdf/2110.07981.pdf)  | Reappraising Domain Generalization in Neural Networks
 [<img src="/images/foo-bar-identity-th.jpg" width="148">](https://arxiv.org/pdf/2110.07981.pdf)  | Reappraising Domain Generalization in Neural Networks

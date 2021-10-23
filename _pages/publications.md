@@ -12,7 +12,7 @@ author_profile: true
 URL             |  Title
 :-------------------------:|:-------------------------:
 [<img src="/images/foo-bar-identity-th.jpg" width="148">](https://arxiv.org/pdf/2006.05103.pdf)  | <b> The Curious Case of Convex Neural Networks</b> <br/> Sarath Sivaprasad, Ankur Singh, Naresh Manwani & Vineet Gandhi
-
+[<img src="/images/foo-bar-identity-th.jpg" width="148">](https://arxiv.org/pdf/2110.07981.pdf)  | <b> Reappraising Domain Generalization in Neural Networks</b> <br/>Sarath Sivaprasad, Akshay Goindani, Vaibhav Garg & Vineet Gandhi
 
 
 

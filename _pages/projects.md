@@ -1,9 +1,11 @@
 ---
-permalink: /projects/
+layout: archive
 title: "My Projects"
-excerpt: "My Projects"
+permalink: /projects/
 author_profile: true
-redirect_from: 
-  - /my_projects/
+redirect_from:
+  - /prjct
 ---
 Coming soon
+
+
